@@ -14,7 +14,7 @@
 - 期間: 2020/10 ~ 2022/03 
 - 用途: matplotlib, seaborn, plotly, scikit-learnを用いたデータ分析
 
-## 資格
+## 取得資格
 - Ruby Association Certified Ruby Programmer Gold version 3
 - Ruby Association Certified Ruby Programmer Silver version 3
 - Rails 4 技術者認定シルバー試験
