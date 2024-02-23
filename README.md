@@ -1,6 +1,4 @@
-# 職務経歴書
-Tomohiko Kuzuba's Profile
-
+# Tomohiko Kuzuba's Profile
 ## モットー
 「ワクワクしながら、未来をワクワクさせるプロダクトを作る」
 
