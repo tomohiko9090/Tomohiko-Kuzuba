@@ -26,8 +26,8 @@
 - Ruby型検査導入
 
 ## 記事
-- (https://note.com/cingulate/n/ne5c8caac766d)[社会人になってわかった、仕事を進める上での「信頼」の重要性]
-- (https://qiita.com/tomohiko9090/items/2491649e2144acafee73)[Rubyの型チェッカー「Sorbet」を導入した話]
+(https://note.com/cingulate/n/ne5c8caac766d)[社会人になってわかった、仕事を進める上での「信頼」の重要性]
+(https://qiita.com/tomohiko9090/items/2491649e2144acafee73)[Rubyの型チェッカー「Sorbet」を導入した話]
 
 ## 経歴
 - 2016~ 広島大学理学部物理化学科
