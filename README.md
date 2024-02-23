@@ -1,8 +1,4 @@
 # Tomohiko Kuzuba's Profile
-![IMG_4891]()
-
-<img src="https://github.com/tomohiko9090/Tomohiko-Kuzuba/assets/66200485/abc8bcf8-9f75-49e6-9155-8d79d548fab2" style="border-radius: 50%; width: 200px; height: 200px;"/>
-
 
 ## モットー
 「ワクワクしながら、未来をワクワクさせるプロダクトを作る」
