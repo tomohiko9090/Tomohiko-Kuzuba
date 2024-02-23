@@ -10,11 +10,11 @@ Tomohiko Kuzuba's Profile
 ## スキル
 ### Ruby
 - 期間: 2022/7 ~ 現在
-- 用途: SaaSアプリケーションの開発
+- 用途: Ruby on Railsを用いたSaaSアプリケーションの開発
 
 ### Python
 - 期間: 2020/10 ~ 2022/03 
-- 用途: データ分析
+- 用途: matplotlib, seaborn, plotly, scikit-learnを用いたデータ分析
 
 ## 資格
 - Ruby Association Certified Ruby Programmer Gold version 3
