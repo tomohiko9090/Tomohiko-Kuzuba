@@ -34,7 +34,7 @@
 - [社会人になってわかった、仕事を進める上での「信頼」の重要性](https://note.com/cingulate/n/ne5c8caac766d)
 
 ## 経歴
-- 2016~ 広島大学理学部物理化学科
+- 2016~ 広島大学理学部物理科学科
   - [IXPE衛星によるブラックホール連星からのX線偏光解析手法の研究](https://tomohiko9090.github.io/graduation_thesis.pdf)
   - [卒業論文ポスター](https://tomohiko9090.github.io/graduation_thesis_poster.pdf)
 - 2020~ 京都大学京都大学大学院人間環境学研究科
