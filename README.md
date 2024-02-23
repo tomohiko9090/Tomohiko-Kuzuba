@@ -1,9 +1,11 @@
 # Tomohiko Kuzuba's Profile
+<img width="500" alt="スクリーンショット 0006-02-24 1 50 26" src="https://github.com/tomohiko9090/Tomohiko-Kuzuba/assets/66200485/e6797147-005f-495e-9586-90b070432670">
+
 
 ## モットー
 「ワクワクしながら、未来をワクワクさせるプロダクトを作る」
 
-## やりたいこと
+## 今後やりたいこと
 0→1のプロダクト開発
 
 ## スキル
