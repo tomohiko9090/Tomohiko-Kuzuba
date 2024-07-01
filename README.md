@@ -23,6 +23,7 @@
 - Ruby Association Certified Ruby Programmer Silver version 3
 - Rails 4 技術者認定シルバー試験
 - ITパスポート試験
+- 3級FP技能検定
 
 ## 業務経験
 - 多言語追加プロジェクト
